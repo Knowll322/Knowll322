@@ -7,7 +7,7 @@
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Knowll322-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Knowll322)
 [![Portfolio](https://img.shields.io/badge/Portfolio-livez-A21CAF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://porto-2027.vercel.app)
 [![Email](https://img.shields.io/badge/Email-arfamubarok0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arfamubarok0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/REPLACE_WITH_LINKEDIN_ID)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-yarfa-mubarok-742ba9432)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Freelance%20%2B%20Internship-10B981?style=for-the-badge&logo=hackerrank&logoColor=white)](#kontak)
 
 </div>
@@ -169,7 +169,7 @@ Project dari perkuliahan yang dikerjakan sebagai bagian dari proses belajar, buk
 
 **LinkedIn**
 
-<a href="https://www.linkedin.com/in/REPLACE_WITH_LINKEDIN_ID">linkedin.com/in/REPLACE_WITH_LINKEDIN_ID</a>
+<a href="https://www.linkedin.com/in/zain-yarfa-mubarok-742ba9432">linkedin.com/in/zain-yarfa-mubarok-742ba9432</a>
 
 </td>
 <td valign="top">
