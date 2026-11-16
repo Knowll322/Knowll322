@@ -39,8 +39,8 @@ hingga toolkit bot Telegram untuk monitor harga dan data scraping.
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Knowll322&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Knowll322)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Knowll322&layout=compact&theme=radical&langs_count=8)](https://github.com/Knowll322)
+[![Stats](https://github-readme-stats-fast.vercel.app/api?username=Knowll322&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Knowll322)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs?username=Knowll322&layout=compact&theme=radical&langs_count=8)](https://github.com/Knowll322)
 [![Streak](https://streak-stats.demolab.com?user=Knowll322&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
@@ -149,7 +149,7 @@ Project dari perkuliahan yang dikerjakan sebagai bagian dari proses belajar, buk
 ## 🏆 Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Knowll322&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophy" />
+  <img src="https://trophy.ryglcloud.net/?username=Knowll322&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophy" />
 </div>
 
 ---
